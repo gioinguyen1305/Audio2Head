@@ -20,7 +20,7 @@ python main.py
 ```  
 Time run of model with num_thread=2:  
 
-![alt text](\images\time_run.png)
+![alt text](./images/time_run.png)
   
 Note that the input images must keep the same height and width and the face should be appropriately cropped as in `/demo/img`.
 
